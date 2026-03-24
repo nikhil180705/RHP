@@ -1,3 +1,4 @@
+package RHP;
 import java.util.*;
 class Main{
     public static void solve(Scanner sc){
